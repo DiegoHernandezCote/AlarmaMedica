@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AlarmaMedica</string>
+    <string name="next">Siguiente medicamento</string>
+    <string name="hour">Hora:</string>
+    <string name="newMed">Nuevo medicamento</string>
+    <string name="cantidad">Dosis:</string>
+    <string name="hourPrim">Hora de la primera toma:</string>
+    <string name="hourPeriod">Intervalo de tiempo:</string>
+    <string name="saveMed">  Guardar  </string>
+    <string-array name="intervalos">
+        <item>2 horas</item>
+        <item>4 horas</item>
+        <item>6 horas</item>
+        <item>8 horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+    </string-array>
+    <string-array name="OpcionesMedicina">
+        <item>Jarabe</item>
+        <item>Pastilla</item>
+        <item>Capsula</item>
+        <item>Inyección</item>
+        <item>Gotas</item>
+        <item>Polvo</item>
+        <item>Inhalador/Nebulizador</item>
+    </string-array>
+</resources>
